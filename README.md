@@ -1,5 +1,5 @@
-- 🌺 Hi, I’m @NicoletaZabloschi
-- 💗 I’m interested in Coding, Graphic Design, Gaming
-- 🪴 I’m currently learning Front End Web Development
+- 🌺 Hi, I’m Nicoleta!
+- 💗 I’m interested in: Frontend Development, UI/UX, Graphic Design.
+- 🪴 Graphic design background.
 
-- [Graphic Design Portfolio](https://www.behance.net/nicoletacatalina)
+- 📗 [Graphic Design Portfolio](https://www.behance.net/nicoletacatalina)
